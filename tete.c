@@ -1,1 +1,1 @@
-Archivo tete.c version 1 usuario A
+hola profesorArchivo tete.c version 1 usuario A
